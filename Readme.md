@@ -1,1 +1,3 @@
-# This is Nav bar
+# Deployed link
+
+https://salamatzhylkybaev.github.io/salamatzhylkybaevnav/
